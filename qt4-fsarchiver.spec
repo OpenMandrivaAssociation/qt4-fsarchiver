@@ -10,6 +10,7 @@ Source0:  	http://downloads.sourceforge.net/%{name}/%{name}-%{version}-4.tar.gz
 Requires:	fsarchiver
 
 BuildRequires:	cmake
+BuildRequires:	qt4-devel
 BuildRequires:	pkgconfig(ext2fs)
 BuildRequires:	pkgconfig(uuid)
 BuildRequires:	pkgconfig(blkid)
