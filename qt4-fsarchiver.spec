@@ -1,6 +1,6 @@
 Name:		qt4-fsarchiver
 Version:	0.6.17
-Release:	1
+Release:	2
 
 Summary:	Safe and flexible file-system backup/deployment tool
 Group:		Archiving/Backup
