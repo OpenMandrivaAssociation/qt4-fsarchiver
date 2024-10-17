@@ -5,7 +5,7 @@ Release:	2
 Summary:	Safe and flexible file-system backup/deployment tool
 Group:		Archiving/Backup
 License:	GPLv2
-URL:		http://www.fsarchiver.org
+URL:		https://www.fsarchiver.org
 Source0:  	http://downloads.sourceforge.net/%{name}/%{name}-%{version}-4.tar.gz
 Requires:	fsarchiver
 
